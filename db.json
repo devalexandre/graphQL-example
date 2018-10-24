@@ -1,0 +1,40 @@
+{
+    "users": [
+      {
+        "id": "4",
+        "firstname": "Igor Lorca",
+        "age": 29,
+        "companyId": "2"
+      },
+      {
+        "id": "5",
+        "firstname": "Ricardo",
+        "age": 20,
+        "companyId": "1"
+      },
+      {
+        "id": "6",
+        "firstname": "Glenda",
+        "age": 22,
+        "companyId": "2"
+      },
+      {
+        "firstname": "Alexandre",
+        "age": 31,
+        "companyId": "1",
+        "id": "07hDV0Y"
+      }
+    ],
+    "companies": [
+      {
+        "id": "1",
+        "name": "apple",
+        "description": "iphone"
+      },
+      {
+        "id": "2",
+        "name": "google",
+        "description": "searsh"
+      }
+    ]
+  }
